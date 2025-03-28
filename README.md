@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year Computer Science student at the University of Bielsko-Biała. Currently, I work as a Programming Instructor at Giganci Programowania, where I teach children and teenagers the fundamentals of programming.<br>
+I am a third-year Computer Science student at the University of Bielsko-Biała. Currently, I work as a Programming Instructor at Giganci Programowania, where I teach children and teenagers the fundamentals of programming, fostering their problem-solving skills and logical thinking.<br>
 
 
 ## 🌐 Socials:
