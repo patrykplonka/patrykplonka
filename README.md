@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-to my personal GitHub profile!
+to my GitHub profile!
 </div>
 
 ## 🌐 Socials:
